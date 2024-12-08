@@ -1,0 +1,11 @@
+Struk Belanja
+Tanggal: 08-12-2024 20:13:48
+Nama: kk
+Nama Barang                        Harga
+----------------------------------------
+Susu UHT 1L                   Rp     15000
+Minuman Soda                  Rp      8000
+----------------------------------------
+Total                         Rp     23000
+
+Terima kasih telah berbelanja!
